@@ -10,9 +10,9 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 MSc background in **Biomedical Engineering**
+- 🎓 MSc background in **Bioengineering**
 - 📊 Passionate about **Data Science, Machine Learning & NLP**
-- 🧠 Focused on **customer analytics, text classification & churn prediction**
+- 🧠 Focused on **Data Science**
 - 🔍 Experienced in **research-driven and project-based work**
 - 🚀 Building end-to-end ML pipelines and dashboards
 
@@ -49,8 +49,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EcemUzman&show_icons=true&theme=dark" />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecemuzman&show_icons=true&theme=dark)
+
 
 ⭐ *Feel free to explore my repositories and projects!*
