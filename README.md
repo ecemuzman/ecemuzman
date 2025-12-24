@@ -48,9 +48,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecemuzman&show_icons=true&theme=dark)
-
 
 ⭐ *Feel free to explore my repositories and projects!*
